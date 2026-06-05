@@ -80,8 +80,12 @@ At **Ecocell Solar Energy** I build IIoT and energy-monitoring systems, while st
 ### 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pterkrsz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pterkrsz&layout=compact&hide_border=true&theme=tokyonight" alt="top langs">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pterkrsz&theme=tokyonight" alt="profile summary">
+</p>
+
+<p align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pterkrsz&theme=tokyonight" alt="repos per language">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pterkrsz&theme=tokyonight" alt="most commit language">
 </p>
 
 <p align="center">
