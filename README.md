@@ -16,16 +16,13 @@
 
 ### 👋 Rólam · About
 
-🇭🇺 **Ipari és üzleti IT-specialista**, freelance fejlesztő Budapestről. A napelemes
+**Ipari és üzleti IT-specialista**, freelance fejlesztő Budapestről. A napelemes
 **Ecocell Solar Energy**-nél IIoT- és energiamonitoring-rendszereken dolgozom,
-mellette **kiberbiztonság-szakos** hallgató az Óbudai Egyetemen. Ott vagyok igazán
-otthon, ahol **szoftvert kell összekötni eszközökkel, adattal és folyamatokkal** —
-karbantartható, éles megoldásokkal.
+mellette **kiberbiztonság-szakos** hallgató az Óbudai Egyetemen.
 
-🇬🇧 **Industrial & business IT specialist** and freelance developer based in Budapest.
+**Industrial & business IT specialist** and freelance developer based in Budapest.
 At **Ecocell Solar Energy** I build IIoT and energy-monitoring systems, while studying
-**cybersecurity** at Óbuda University. I'm at my best connecting **software to devices,
-data and processes** — with maintainable, production-grade solutions.
+**cybersecurity** at Óbuda University. 
 
 ---
 
