@@ -13,7 +13,7 @@
 
 ### Rólam · About
 
-Rendszerfejlesztő és rendszergazda Budapesten. A [Sys10 Technologies](https://sys10.tech) mögött egy ember áll, és ő felel az egészért: én.
+Rendszerfejlesztő és rendszergazda Budapesten. A [Sys10 Technologies](https://sys10.tech) nevén dolgozom: egy ember felel az egészért.
 A napelemes **Ecocell Solar Energy**-nél IIoT- és energiamonitoring-rendszereken dolgozom, mellette **kiberbiztonság-szakos** hallgató vagyok az Óbudai Egyetemen.
 
 Systems developer and sysadmin in Budapest, behind [Sys10 Technologies](https://sys10.tech).
