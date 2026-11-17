@@ -3,20 +3,20 @@
 <a href="https://sys10.tech">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.png">
-    <img src="assets/hero-dark.png" width="100%" alt="Krész Péter. Rendszerfejlesztő, rendszergazda, Sys10 Technologies. Budapest.">
+    <img src="assets/hero-dark.png" width="100%" alt="Krész Péter. Alapító, kapcsolattartó, Sys10 Technologies. Rendszerfejlesztő és rendszergazda, Budapest.">
   </picture>
 </a>
 
 ### Rólam · About
 
-Rendszerfejlesztő és rendszergazda Budapesten. A [Sys10 Technologies](https://sys10.tech) nevén dolgozom: egy ember felel az egészért.
+A [Sys10 Technologies](https://sys10.tech) alapítója és kapcsolattartója. A Sys10 budapesti informatikai csapat: vállalatirányítási rendszert fejlesztünk, szervereket, hálózatokat és irodai informatikát üzemeltetünk, weboldalakat építünk.
 A napelemes **Ecocell Solar Energy**-nél IIoT- és energiamonitoring-rendszereken dolgozom, mellette **kiberbiztonság-szakos** hallgató vagyok az Óbudai Egyetemen.
 
-Systems developer and sysadmin in Budapest, working as [Sys10 Technologies](https://sys10.tech). At **Ecocell Solar Energy** I build IIoT and energy-monitoring systems, and I study **cybersecurity** at Óbuda University.
+Founder and client contact of [Sys10 Technologies](https://sys10.tech), an IT team in Budapest building business management systems, running infrastructure and building websites. At **Ecocell Solar Energy** I build IIoT and energy-monitoring systems, and I study **cybersecurity** at Óbuda University.
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sys10-Technologies/.github/main/profile/assets/pillars-light.png">
-  <img src="https://raw.githubusercontent.com/Sys10-Technologies/.github/main/profile/assets/pillars-dark.png" width="100%" alt="Sys10 Technologies, három pillér: Helios, webfejlesztés, IT-üzemeltetés.">
+  <img src="https://raw.githubusercontent.com/Sys10-Technologies/.github/main/profile/assets/pillars-dark.png" width="100%" alt="Sys10 Technologies, amit átveszünk: Helios vállalatirányítás, webfejlesztés, infrastruktúra és biztonság.">
 </picture>
 
 ### Szakterületek · Expertise
