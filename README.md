@@ -1,31 +1,23 @@
 <!-- pterkrsz · Krész Péter · Sys10 Technologies -->
 
-<p align="center">
-  <a href="https://sys10.tech"><img src="assets/banner.png" alt="Krész Péter: rendszerfejlesztő, rendszergazda, Sys10 Technologies" width="100%"></a>
-</p>
-
-<p align="center">
-  <a href="https://sys10.tech"><img src="https://img.shields.io/badge/sys10.tech-0A1628?style=flat-square&labelColor=0A1628&color=22D3EE" alt="sys10.tech"></a>
-  <a href="https://github.com/Sys10-Technologies"><img src="https://img.shields.io/badge/GitHub-Sys10--Technologies-0A1628?style=flat-square&logo=github&logoColor=white&labelColor=0A1628&color=1B3354" alt="Sys10-Technologies"></a>
-  <a href="https://www.linkedin.com/in/pterkrsz"><img src="https://img.shields.io/badge/LinkedIn-pterkrsz-0A1628?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A1628&color=1B3354" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Budapest-HU-0A1628?style=flat-square&labelColor=0A1628&color=1B3354" alt="Budapest">
-</p>
+<a href="https://sys10.tech">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.png">
+    <img src="assets/hero-dark.png" width="100%" alt="Krész Péter. Rendszerfejlesztő, rendszergazda, Sys10 Technologies. Budapest.">
+  </picture>
+</a>
 
 ### Rólam · About
 
 Rendszerfejlesztő és rendszergazda Budapesten. A [Sys10 Technologies](https://sys10.tech) nevén dolgozom: egy ember felel az egészért.
 A napelemes **Ecocell Solar Energy**-nél IIoT- és energiamonitoring-rendszereken dolgozom, mellette **kiberbiztonság-szakos** hallgató vagyok az Óbudai Egyetemen.
 
-Systems developer and sysadmin in Budapest, behind [Sys10 Technologies](https://sys10.tech).
-At **Ecocell Solar Energy** I build IIoT and energy-monitoring systems, and I study **cybersecurity** at Óbuda University.
+Systems developer and sysadmin in Budapest, working as [Sys10 Technologies](https://sys10.tech). At **Ecocell Solar Energy** I build IIoT and energy-monitoring systems, and I study **cybersecurity** at Óbuda University.
 
-### Sys10 Technologies
-
-| | Pillér | Amit vállalok |
-|---|---|---|
-| `01` | **Helios** | Saját alkalmazásplatform, cégre szabott webes appokkal: ügyfélkezelés, munkalap, készlet, bérlés, jóváhagyás. |
-| `02` | **Webfejlesztés** | Gyors, saját kódbázisú weboldalak és webalkalmazások. Nem sablonból. |
-| `03` | **IT-üzemeltetés** | Microsoft 365 vagy Google Workspace, hálózat, levelezés, mentés. Havidíjért, negyedévente kipróbált visszaállítással. |
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sys10-Technologies/.github/main/profile/assets/pillars-light.png">
+  <img src="https://raw.githubusercontent.com/Sys10-Technologies/.github/main/profile/assets/pillars-dark.png" width="100%" alt="Sys10 Technologies, három pillér: Helios, webfejlesztés, IT-üzemeltetés.">
+</picture>
 
 ### Szakterületek · Expertise
 
@@ -38,44 +30,41 @@ At **Ecocell Solar Energy** I build IIoT and energy-monitoring systems, and I st
 | **Rendszergazda** | hálózat (VLAN/OSPF/VPN), szerver, TrueNAS/Proxmox |
 | **IT-biztonság** | infrastruktúra- és app-penteszt, audit, GDPR |
 
-### Tech stack
-
 <p>
-  <img src="https://img.shields.io/badge/C%23-0A1628?style=for-the-badge&logo=csharp&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/.NET-0A1628?style=for-the-badge&logo=dotnet&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/Python-0A1628?style=for-the-badge&logo=python&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/JavaScript-0A1628?style=for-the-badge&logo=javascript&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/SQL-0A1628?style=for-the-badge&logo=postgresql&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/Django-0A1628?style=for-the-badge&logo=django&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/Astro-0A1628?style=for-the-badge&logo=astro&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/Odoo-0A1628?style=for-the-badge&logo=odoo&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/Docker-0A1628?style=for-the-badge&logo=docker&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/Proxmox-0A1628?style=for-the-badge&logo=proxmox&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/TrueNAS-0A1628?style=for-the-badge&logo=truenas&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/Linux-0A1628?style=for-the-badge&logo=linux&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/Cloudflare-0A1628?style=for-the-badge&logo=cloudflare&logoColor=22D3EE">
+  <img src="https://img.shields.io/badge/C%23-0A1628?style=for-the-badge&logo=csharp&logoColor=22D3EE" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-0A1628?style=for-the-badge&logo=dotnet&logoColor=22D3EE" alt=".NET">
+  <img src="https://img.shields.io/badge/Python-0A1628?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-0A1628?style=for-the-badge&logo=javascript&logoColor=22D3EE" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-0A1628?style=for-the-badge&logo=postgresql&logoColor=22D3EE" alt="SQL">
+  <img src="https://img.shields.io/badge/Django-0A1628?style=for-the-badge&logo=django&logoColor=22D3EE" alt="Django">
+  <img src="https://img.shields.io/badge/Astro-0A1628?style=for-the-badge&logo=astro&logoColor=22D3EE" alt="Astro">
+  <img src="https://img.shields.io/badge/Odoo-0A1628?style=for-the-badge&logo=odoo&logoColor=22D3EE" alt="Odoo">
+  <img src="https://img.shields.io/badge/Docker-0A1628?style=for-the-badge&logo=docker&logoColor=22D3EE" alt="Docker">
+  <img src="https://img.shields.io/badge/Proxmox-0A1628?style=for-the-badge&logo=proxmox&logoColor=22D3EE" alt="Proxmox">
+  <img src="https://img.shields.io/badge/TrueNAS-0A1628?style=for-the-badge&logo=truenas&logoColor=22D3EE" alt="TrueNAS">
+  <img src="https://img.shields.io/badge/Linux-0A1628?style=for-the-badge&logo=linux&logoColor=22D3EE" alt="Linux">
+  <img src="https://img.shields.io/badge/Cloudflare-0A1628?style=for-the-badge&logo=cloudflare&logoColor=22D3EE" alt="Cloudflare">
 </p>
-
-`IIoT` · `Modbus/MQTT` · `time-series` · `ERP migration` · `VLAN/OSPF/VPN` · `network security` · `GDPR`
 
 ### Kiemelt projektek · Featured
 
-- **Solar Inverter Monitor** (2026): WPF desktop app inverterek valós idejű monitorozására
-- **Odoo 17 SaaS → on-premise migráció** (2025): felhő-ERP átköltöztetés saját szerverre
-- **Field Service modul** (2025): mobilbarát villanyszerelő-feladatkezelő, vonalkódos követéssel
-- **Céges IT-infrastruktúra** (2024–25): komplett hálózat és szerver több telephelyes cégnek
-- **Multi-site mesh VPN** (2025): Tailscale-alapú telephely-összekötés
-
-### GitHub
+| Év | Projekt | |
+|---|---|---|
+| 2026 | **Solar Inverter Monitor** | WPF desktop app inverterek valós idejű monitorozására |
+| 2025 | **Odoo 17 SaaS → on-premise** | felhő-ERP átköltöztetés saját szerverre |
+| 2025 | **Field Service modul** | mobilbarát villanyszerelő-feladatkezelő, vonalkódos követéssel |
+| 2025 | **Multi-site mesh VPN** | Tailscale-alapú telephely-összekötés |
+| 2024–25 | **Céges IT-infrastruktúra** | komplett hálózat és szerver több telephelyes cégnek |
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pterkrsz&theme=tokyonight" alt="profile summary">
-</p>
-<p align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pterkrsz&theme=tokyonight" alt="repos per language">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pterkrsz&theme=tokyonight" alt="most commit language">
+  <img src="https://streak-stats.demolab.com?user=pterkrsz&hide_border=false&background=0A1628&border=1B3354&stroke=1B3354&ring=22D3EE&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=8CA3BF&dates=8CA3BF&border_radius=12" alt="GitHub streak">
 </p>
 
-### Beszéljünk. · Contact
+<a href="https://sys10.tech">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/cta-light.png">
+    <img src="assets/cta-dark.png" width="100%" alt="Beszéljünk. Első lépés egy 20 perces beszélgetés. info@sys10.tech, +36 20 524 0838, sys10.tech.">
+  </picture>
+</a>
 
-[sys10.tech](https://sys10.tech) · [info@sys10.tech](mailto:info@sys10.tech) · +36 20 524 0838 · [linkedin.com/in/pterkrsz](https://www.linkedin.com/in/pterkrsz) · [pterkrsz.github.io](https://pterkrsz.github.io)
+<sub>[sys10.tech](https://sys10.tech) · [info@sys10.tech](mailto:info@sys10.tech) · [linkedin.com/in/pterkrsz](https://www.linkedin.com/in/pterkrsz) · [pterkrsz.github.io](https://pterkrsz.github.io)</sub>
